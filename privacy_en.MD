@@ -23,6 +23,7 @@ The contents of this policy may be changed as necessary. Any changes will be not
 
 ## 4. Contact  
 If you have any questions regarding this policy, please contact the developer.  
+[Contact](/contact_en.MD)
 
 <!-- modify this form HTML and place wherever you want your form -->
 <form
@@ -42,5 +43,3 @@ If you have any questions regarding this policy, please contact the developer.
   <br>
   <button type="submit">Send</button>
 </form>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvTxmcGtH9jW1z42EjGJ6ZsJi_6rOkKUnWt7aYwm24m4sQ6A/viewform?embedded=true" width="640" height="810" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
