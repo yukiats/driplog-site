@@ -3,7 +3,7 @@ title: DripLog
 layout: default
 permalink: /
 ---
-[English](/index_en.MD)
+[English](https://yukiats.github.io/driplog-site/index_en.MD)
 
 ## DripLogとは？
 DripLogは看護師が考えた作成した点滴速度と実施履歴と記録を統合管理できるアプリです。  
