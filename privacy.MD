@@ -19,6 +19,7 @@ permalink: /privacy/
 本ポリシーの内容は、必要に応じて変更されることがあります。変更があった場合には、本ページ上で通知します。
 ## 4. お問い合わせ
 本ポリシーに関するご質問がある場合には、開発者までご連絡ください。
+[問い合わせ](/contact.MD)
  
  <!-- modify this form HTML and place wherever you want your form -->
 <form
