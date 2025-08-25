@@ -1,7 +1,7 @@
 ---
 title: DripLog
 layout: default
-permalink: /index-en/
+permalink: /index-en
 ---
 [Japanese(日本語)](https://yukiats.github.io/driplog-site/)
 
@@ -35,4 +35,4 @@ Please adjust the drip rate at your own responsibility.
 ## Privacy Policy
 This app does not collect any personal information.  
 For more details about our approach to privacy, please refer to the link below.  
-[Privacy](/privacy_en)
+[Privacy](/driplog-site/privacy_en)
