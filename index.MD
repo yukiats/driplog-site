@@ -4,8 +4,8 @@ layout: default
 permalink: /
 ---
 
-#DripLog
-##DripLogとは？
+# DripLog
+## DripLogとは？
 
 DripLogは看護師が考えた作成した点滴速度と実施履歴と記録を統合管理できるアプリです。
 以下の機能があります。
