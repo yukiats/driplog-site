@@ -18,26 +18,5 @@ permalink: /privacy/
 ## 3. プライバシーポリシーの変更
 本ポリシーの内容は、必要に応じて変更されることがあります。変更があった場合には、本ページ上で通知します。
 ## 4. お問い合わせ
-本ポリシーに関するご質問がある場合には、開発者までご連絡ください。
+本ポリシーに関するご質問がある場合には、開発者までご連絡ください。  
 [問い合わせ](/contact.MD)
- 
- <!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/xvgbpylb"
-  method="POST"
->
-  <label>
-    メールアドレス:
-    <input type="email" name="email">
-  </label>
-  <br>
-  <label>
-    メッセージ:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <br>
-  <button type="submit">送信</button>
-</form>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvTxmcGtH9jW1z42EjGJ6ZsJi_6rOkKUnWt7aYwm24m4sQ6A/viewform?embedded=true" width="640" height="810" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
