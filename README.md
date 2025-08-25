@@ -1,3 +1,9 @@
+---
+title: Privacy Policy
+layout: default
+permalink: /privacy-policy/
+---
+
 ## Privacy Policy  
 ### DripLog Privacy Policy  
 ### Last Updated: August 19, 2025  
