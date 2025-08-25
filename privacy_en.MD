@@ -16,7 +16,6 @@ In addition, since this app itself does not include communication functions, it 
 
 ## 2. Provision to Third Parties  
 The developer of this app does not provide users' personal information to third parties.  
-If information is used by advertising service providers, such use will be governed by the privacy policies of the respective providers.  
 
 ## 3. Changes to the Privacy Policy  
 The contents of this policy may be changed as necessary. Any changes will be notified on this page.  
