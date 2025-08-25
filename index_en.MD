@@ -3,7 +3,7 @@ title: DripLog
 layout: default
 permalink: /index-en/
 ---
-[Japanese(日本語)](/)
+[Japanese(日本語)](https://yukiats.github.io/driplog-site/)
 
 ## What is DripLog?
 DripLog is an app created by nurses to centrally manage drip rate calculations, infusion histories, and records.  
