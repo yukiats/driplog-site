@@ -1,7 +1,7 @@
 ---
 title: DripLog
 layout: default
-permalink: /index-en
+permalink: /index_en/
 ---
 [Japanese(日本語)](https://yukiats.github.io/driplog-site/)
 
