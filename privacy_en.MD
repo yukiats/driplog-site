@@ -23,3 +23,22 @@ The contents of this policy may be changed as necessary. Any changes will be not
 
 ## 4. Contact  
 If you have any questions regarding this policy, please contact the developer.  
+
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xvgbpylb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <br>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <br>
+  <button type="submit">Send</button>
+</form>

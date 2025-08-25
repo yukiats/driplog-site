@@ -26,13 +26,15 @@ permalink: /privacy/
   method="POST"
 >
   <label>
-    Your email:
+    メールアドレス:
     <input type="email" name="email">
   </label>
+  <br>
   <label>
-    Your message:
+    メッセージ:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <br>
+  <button type="submit">送信</button>
 </form>
