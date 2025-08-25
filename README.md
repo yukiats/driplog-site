@@ -40,3 +40,19 @@ If you have any questions regarding this policy, please contact the developer.
 ## 4. お問い合わせ
 本ポリシーに関するご質問がある場合には、開発者までご連絡ください。
  
+ <!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xvgbpylb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
