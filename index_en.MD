@@ -31,3 +31,8 @@ It offers the following features:
 ## Disclaimer
 The accuracy of the drip rate calculated by this app is not guaranteed.  
 Please adjust the drip rate at your own responsibility.
+
+## Privacy Policy
+This app does not collect any personal information.  
+For more details about our approach to privacy, please refer to the link below.  
+[Privacy](/privacy_en)
