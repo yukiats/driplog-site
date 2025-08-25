@@ -1,12 +1,12 @@
 ---
 title: Privacy Policy
 layout: default
-permalink: /privacy-policy/
+permalink: /privacy_en/
 ---
 
 ## Privacy Policy  
 ### DripLog Privacy Policy  
-### Last Updated: August 19, 2025  
+### Last Updated: August 25, 2025  
 
 The application "DripLog" (hereinafter referred to as "this app") respects the privacy of users and places great importance on the protection of personal information.  
 
