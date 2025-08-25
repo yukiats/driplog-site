@@ -3,7 +3,7 @@ title: Privacy Policy
 layout: default
 permalink: /privacy/
 ---
-
+[English](/driplog-site/privacy_en/)
 
 ## プライバシーポリシー
 ### DripLogプライバシーポリシー
