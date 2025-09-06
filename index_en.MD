@@ -36,3 +36,7 @@ Please adjust the drip rate at your own responsibility.
 This app does not collect any personal information.  
 For more details about our approach to privacy, please refer to the link below.  
 [Privacy](/driplog-site/privacy_en)
+
+## Contact
+Please send your inquiry through the form below.
+[Contact](/driplog-site/contact-en)
