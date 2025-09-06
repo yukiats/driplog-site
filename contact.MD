@@ -1,1 +1,10 @@
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvTxmcGtH9jW1z42EjGJ6ZsJi_6rOkKUnWt7aYwm24m4sQ6A/viewform?embedded=true" width="640" height="810" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+---
+title: 問い合わせ
+layout: default
+permalink: /contact/
+---
+
+#問い合わせフォーム
+###以下の必要事項を記入してsubmit ボタンを押して内容を送信してください
+
+<iframe style="border:none;width:100%;" id="form-database-cwxjcn" src="https://noteforms.com/forms/form-database-cwxjcn"></iframe><script type="text/javascript" onload="initEmbed('form-database-cwxjcn')" src="https://noteforms.com/widgets/iframe.min.js"></script>
