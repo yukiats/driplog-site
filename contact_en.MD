@@ -1,1 +1,9 @@
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfEKPLrmY7iSwAPGbJwKK_0CecCXGK6D2pIS7nxWoNkIBHtgA/viewform?embedded=true" width="640" height="675" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+---
+title:
+layout: 
+permalink: 
+---
+
+#Contact form
+
+<iframe style="border:none;width:100%;" id="form-database-xijmca" src="https://noteforms.com/forms/form-database-xijmca"></iframe><script type="text/javascript" onload="initEmbed('form-database-xijmca')" src="https://noteforms.com/widgets/iframe.min.js"></script>
